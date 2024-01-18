@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Joe Bonneau (yes, it rhymes!) 👋
+
+- 🔭 I’m currently working on helping build out [sesh](https://github.com/joshmedeski/sesh), a workflow management tool for terminal multiplexers
+- 🌱 I’m currently in the process of learning Go
+- ⚡ Fun fact: I'm a music fanatic and specifically love hip-hop and R&B 
 
 <!--
 **joebonneau/joebonneau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
