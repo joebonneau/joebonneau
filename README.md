@@ -1,6 +1,6 @@
 ### Hi, I'm Joe Bonneau (yes, it rhymes!) 👋
 
-- 🔭 I’m currently helping build out [Threshold Health](www.threshold.health)
+- 🔭 I’m currently helping build out [Threshold Health](https://www.threshold.health/)
 - ❤️‍🔥 I'm passionate about workflow efficiency and creating amazing user experiences
 - 🌱 I’m currently in the process of learning Go
 - ⚡ Fun fact: I'm a music fanatic and specifically love hip-hop and R&B 
